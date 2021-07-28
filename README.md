@@ -22,7 +22,7 @@ Deliverable 2
 Deliverable 3
 - [x] 11. Analyze the updated data
 
-Jupyter Notebook with updated analysis: [School Distric Analysis](https://github.com/GabrielaTuma/Panda_analysis/blob/8e97f44600a3eb1e01055bb7e979debdb63c61a8/School_District_Analysis/PyCitySchools_Challenge.ipynb)
+Jupyter Notebook with updated analysis: [School District Analysis](https://github.com/GabrielaTuma/Panda_analysis/blob/8e97f44600a3eb1e01055bb7e979debdb63c61a8/School_District_Analysis/PyCitySchools_Challenge.ipynb)
 
 ## Resources 
 
